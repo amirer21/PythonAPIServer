@@ -1,0 +1,27 @@
+{
+	"id": "1234567",
+	"name": "hong-deb.test.com",
+	"values": [
+		{
+			"key": "domain",
+			"value": "hong-deb.test.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "host",
+			"value": "wc.hong-deb.test.com",
+			"enabled": true
+		},
+		{
+			"key": "service",
+			"value": "env_test",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "Bearer test1234",
+			"enabled": true
+		}]
+}

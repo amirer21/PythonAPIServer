@@ -3,6 +3,10 @@
 
 이 프로젝트는 Python과 Flask를 사용하여 간단한 JSON 데이터를 반환하는 API 서버를 구현한 것입니다.
 
+Angular 웹에 데이터를 전달하기 위한 API 서버입니다.
+
+> https://github.com/amirer21/AngularWeb
+
 ## 설치
 
 1. 이 저장소를 클론합니다:
