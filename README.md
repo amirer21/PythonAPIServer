@@ -5,6 +5,8 @@
 
 Angular 웹에 데이터를 전달하기 위한 API 서버입니다.
 
+## 파이썬 버전 : 3.11.5
+
 > https://github.com/amirer21/AngularWeb
 
 ## 설치
